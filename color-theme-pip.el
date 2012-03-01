@@ -4,7 +4,7 @@
   "Based on color-theme-hober"
   (interactive)
   (color-theme-install
-   '(color-theme-tomtt
+   '(color-theme-pip
      ((foreground-color . "#c0c0c0")
       (background-color . "black")
       (mouse-color . "black")
